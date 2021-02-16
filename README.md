@@ -1,8 +1,9 @@
 # SNA lectures notebooks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sna-unipi/SNA_lectures_notebooks/HEAD)
 
 Supporting materials for the SNA course @UNIPI.
 
-Each notebook proposes a networkx guide through all the topics of same name lecture
+Each notebook proposes a networkx guide through all the topics of a course lecture.
 
 - Chapter 2: Basic Measures
 - Chapter 3: Random Networks
@@ -17,3 +18,11 @@ Each notebook proposes a networkx guide through all the topics of same name lect
 - Chapter 12: Decision Based Models
 - Chapter 13: Epidemics
 - Chapter 14: Opinion Dynamics
+
+## Appendixes
+The following notebooks details the facilities offered by libraries we developed to support Community Discovery, Dynamic Network analysis and Network Diffusion tasks.
+Their "reading" is suggested as a support for Chapters 8-11, Chapter 9 and Chapters 12-13-14 respectively.
+
+- CDlib: Community Discovery Library
+- DyNetX: Dynamic Network Modeling Library
+- NDlib: Network Diffusion Library
