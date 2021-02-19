@@ -1,0 +1,143 @@
+Id,Label,house
+AERON,Aeron,Greyjoy
+AERYS,Aerys,Targaryen
+ALLISER_THORNE,Alliser,Stark
+AREO,Areo,Martell
+ARTHUR,Arthur,Kingsguard
+ARTHUR_CHILD,Arthur (child),Commoner
+ARYA,Arya,Stark
+BALON,Balon,Dragon
+BELICHO,Belicho,Volantis
+BENJEN,Benjen,Stark
+BERIC,Beric,Brotherhood
+BIANCA,Bianca,Commoner
+BLACK_WALDER,Black Walder,Rivers
+BOBONO,Bobono,Braavos
+BOWEN_MARSH,Bowen,Frey
+BRAN,Bran,Stark
+BRIENNE,Brienne,Stark
+BRONN,Bronn,Lannister
+BRYNDEN,Brynden,Rivers
+CAMELLO,Camello,Braavos
+CATELYN,Catelyn,Stark
+CERSEI,Cersei,Lannister
+CLARENZO,Clarenzo,Braavos
+DAARIO,Daario,Second Sons
+DAENERYS,Daenerys,Targaryen
+DAVOS,Davos,Seaworth
+DICKON,Dickon,Tarly
+DIM_DALBA,Dim Dalba,Wildling
+EDDISON_TOLLETT,Eddison,Night's Watch
+DOM,Dom,Commoner
+DORAN,Doran,Martel
+DOSH_KHALEEN_LEADER,Dosh Khaleen Leader,Dothraki
+DROGO,Drogo,Dothraki
+EDMURE,Edmure,Tully
+ELLARIA,Ellaria,Sand
+EURON,Euron,Greyjoy
+FLYNN,Flynn,Baratheon
+GATINS,Gatins,Brotherhood
+GILLY,Gilly,Wildlings
+GLOVER,Glover,Stark
+GREY_WORM,Grey Worm,Targaryen
+GUARD_CAPTAIN,Guard Captain,Commoner
+HARALD,Harald,Bolton
+HIGH_SPARROW,High Sparrow,Church7
+HODOR,Hodor,Stark
+HOSTER,Hoster,Tully
+HOUND,Sandor,Brotherhood
+HOWLAND,Howland,Reed
+IZEMBARO,Izembaro,Braavos
+JAIME,Jaime,Lannister
+JAQEN,Jaqen,Braavos
+JEOR,Jeor,Night's Watch
+JOFFREY,Joffrey,Lannnister
+JON,Jon,Snow
+JORAH,Jorah,Mormont
+KEVAN,Kevan,Lannister
+KHAL_MORO,Khal Moro,Dothraki
+KINVARA,Kinvara,R'hllor
+KRAZNYS_MO_NAKLOZ,Kraznys,Astapor
+LADY_CRANE,Lady Crane,Braavos
+LANCEL,Lancel,Lannister
+LEAF,Leaf,Child of the Forest
+LEM,Lem,Brotherhood
+LHAZAREEN_WOMAN,Lhazareen Woman,Commoner
+LITTLE_SAM,Little Sam,Tarly
+LITTLEFINGER,Petyr,Baelish
+LORAS,Loras,Tyrell
+LOTHAR,Lothar,Frey
+LYANNA,Lyanna,Stark
+LYANNA_MORMONT,Lyanna Mormont,Mormont
+MACE,Mace,Tyrell
+MAESTER_AEMON,Aemon,Targaryen
+MAESTER_CITADEL,Citadel Maester,Citadel
+MAESTER_DORNE,Dorne Maester,Martell
+MAESTER_MORMONT,Mormont Maester,Night's Watch
+MAESTER_WOLKAN,Wolkan,Church7
+MANCE,Mance,Wildlings
+MANDERLY,Manderly,Starks
+MARGAERY,Margaery,Tyrell
+MEERA,Meera,Reed
+MELESSA,Melessa,Tarly
+MELISANDRE,Melisandre,R'hllor
+MINISA,Minisa,Tully
+MISSANDEI,Missandei,Targaryen
+MORGAN,Morgan,Brotherhood
+MOUNTAIN,Gregor,Lannister
+MYRANDA,Myranda,Bolton
+MYRCELLA,Myrcella,Lannister
+NED,Ned,Stark
+NIGHT_KING,Night King,White Walkers
+NYMERIA,Nymeria,Direwolf
+OBARA,Obara,Sand
+OBERYN,Oberyn,Martell
+OLD_NAN,Old Nan,Stark
+OLENNA,Olenna,Tyrell
+OLLY,Olly,Commoner
+OSHA,Osha,Wildlings
+OTHELL_YARWYCK,Othell,Night's Watch
+PODRICK,Podrick,Kingsguard
+PYCELLE,Pycelle,Lannister
+QYBURN,Qyburn,Lannister
+RAMSAY,Ramsay,Bolton
+RANDYLL,Randyll,Tarly
+RAY,Ray,Chuch7
+RAZDAL,Razdal,Yunkai
+RED_PRIEST,Red Priest,R'hllor
+RICKARD_KARSTARK,Rickard Karstark,Stark
+RICKARD_STARK,Rickard Stark,Stark
+RICKON,Rickon,Stark
+ROBB,Robb,Stark
+ROBERT,Robert,Baratheon
+ROBETT,Robett,Stark
+ROBIN,Robin,Arryn
+RODRIK,Rodrik,Stark
+ROOSE_BOLTON,Roose,Bolton
+SAM,Sam,Tarly
+SANSA,Sansa,Stark
+SEPTA_UNELLA,Septa Unella,Church7
+SHIREEN,Shireen,Baratheon
+SMALLJON,Smalljon,Umber
+SON_OF_EDMURE,Edmure's Son,Tully
+SON_OFWALDA,Roose's Son,Bolton
+STANNIS,Stannis,Baratheon
+TALLA,Talla,Tarly
+THEON,Theon,Greyjoy
+THOROS,Thoros,Brotherhood
+THREE_EYED_RAVEN,Three Eyed Raven,Stark
+TOMMEN,Tommen,Lannister
+TORMUND,Tormund,Wildlings
+TRYSTANE,Trystane,Martell
+TYENE,Tyene,Sand
+TYRION,Tyrion,Lannister
+TYWIN,Tywin,Lannister
+VALA,Vala,Commoner
+VARYS,Varys,Lannister
+WAIF,Waif,Braavos
+WALDA,Walda,Bolton
+WALDER,Walder,Frey
+WUN_WUN,Wun Wun,Wildlings
+YARA,Yara,Greyjoy
+YEZZAN,Yezzan,Yunkai
+YOHN_ROYCE,Yohn,Arryn
