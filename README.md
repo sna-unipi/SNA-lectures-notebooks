@@ -11,10 +11,10 @@ Each notebook proposes a networkx guide through all the topics of a course lectu
 - Chapter 5: Scale Free
 - Chapter 6: Centrality & Assortative Mixing
 - Chapter 7: Ties Strength & Resilience*
-- Chapter 8: Community Discovery*
+- Chapter 8: Community Discovery
 - Chapter 9: Network Dynamics
 - Chapter 10: Link Prediction
-- Chapter 11: Dynamic Community Discovery*
+- Chapter 11: Dynamic Community Discovery
 - Chapter 12: Decision Based Models
 - Chapter 13: Epidemics
 - Chapter 14: Opinion Dynamics
