@@ -6,7 +6,7 @@ channels:
   - conda-forge/label/broken
 dependencies:
   - pip
-  - graph-tool
+  # - graph-tool
   - pip:
     - networkx
     - git+https://github.com/GiulioRossetti/cdlib.git
