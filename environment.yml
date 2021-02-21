@@ -2,13 +2,11 @@ name: lectures
 channels:
   - conda-forge
 dependencies:
-  - python
-  - numpy
   - pip
   - graph-tool
   - pip:
     - networkx
-    - cdlib
+    - git+https://github.com/GiulioRossetti/cdlib.git
     - ndlib
     - linkpred
     - infomap
