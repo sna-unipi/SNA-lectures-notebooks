@@ -1,5 +1,0 @@
-networkx
-cdlib
-ndlib
-linkpred
-numpy
