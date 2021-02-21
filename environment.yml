@@ -1,7 +1,7 @@
 name: lectures
 channels:
-  - conda-forge
   -  defaults
+  - conda-forge
   - conda-forge/label/broken
 dependencies:
   - pip
